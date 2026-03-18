@@ -92,4 +92,4 @@ g++ main.cpp -o project
 
 ## 👨‍💻 Author
 
-**Moazzam Sharif** — Semester Project (PF Lab)
+**Moazzam Sharif**

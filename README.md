@@ -54,6 +54,25 @@ g++ main.cpp -o project
 
 ---
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Tour Packages
+![Tour Packages](screenshots/tour-packages.png)
+
+### Booking System
+![Booking System](screenshots/booking.png)
+
+### Accommodation
+![Accommodation](screenshots/accommodation.png)
+
+### Customer Support
+![Customer Support](screenshots/customer-support.png)
+
+---
+
 ## 📌 Limitations
 
 - Uses static arrays (fixed size)

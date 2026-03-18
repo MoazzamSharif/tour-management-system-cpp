@@ -36,16 +36,41 @@ A console-based application developed in C++ to simulate a complete tour and tra
 ## 🛠️ Tech Stack
 
 - **Language:** C++
-- **Concepts Used:**
-  - Arrays
-  - Loops & Conditionals
-  - String Handling
-  - Basic Data Management
+- **Concepts Used:** Arrays, Loops & Conditionals, String Handling, Basic Data Management
 
 ---
 
 ## ▶️ How to Run
-
-### 1. Clone the repository
 ```bash
+# 1. Clone the repository
 git clone https://github.com/MoazzamSharif/tour-management-system-cpp.git
+
+# 2. Compile the code
+g++ main.cpp -o project
+
+# 3. Run the program
+./project
+```
+
+---
+
+## 📌 Limitations
+
+- Uses static arrays (fixed size)
+- No file handling (data is not saved permanently)
+- No Object-Oriented Programming (OOP)
+
+---
+
+## 🚀 Future Improvements
+
+- Convert to Object-Oriented Programming (OOP)
+- Add File Handling or Database
+- Build a GUI version (Qt / Web App)
+- Add User Authentication System
+
+---
+
+## 👨‍💻 Author
+
+**Moazzam Sharif** — Semester Project (PF Lab)
